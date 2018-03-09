@@ -1,0 +1,1 @@
+call mvn -f "E:\demo\demo selenium\Proj2\Proj2" clean test -Dtest=AppTest.java
